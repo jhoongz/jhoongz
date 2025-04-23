@@ -1,21 +1,47 @@
 <div id="header" align="center">
-    <img src="https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif" width="400">
-    <h1 align="center"> Hi! 👋, I'm Jonathan / Hola! 👋, Soy Jonathan </h1>
-    <h3 align="center">A Full Stack developer, from Argentina, who is new to this world but very hardworking, responsible and dedicated. / Un desarrollador, de Argentina, Full Stack que se inicia en este mundo pero muy trabajador, responsable y dedicado. </h3>
+  <img src="https://media.giphy.com/media/gG6OcTSRWaSis/giphy.gif" width="400"/>
+  <h1 align="center">Hi! 👋 I'm Jonathan / ¡Hola! 👋 Soy Jonathan</h1>
+  <h3 align="center">A Full Stack developer from Argentina. New to the field, but very hardworking, responsible, and dedicated.</h3>
 </div>
 
+---
 
-<!--
-**jhoongz/jhoongz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Sobre mí / About Me
 
-Here are some ideas to get you started:
+- 🌱 Actualmente aprendiendo: React, Django REST Framework y PostgreSQL.
+- 💡 Interesado en: Desarrollo Web, APIs REST, y Ciencia de Datos.
+- 💻 Tech Stack: Python | JavaScript | HTML | CSS | SQL | Flask | Django | Power BI.
+- 📚 Formación: Estudiante de Ingeniería en Sistemas de Información y Tecnicatura en Programación.
+- 🤝 Buscando oportunidades para crecer como desarrollador en entornos ágiles y colaborativos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔨 Proyectos destacados
+
+- 🛒 [Sistema de Gestión de Inventario](https://github.com/jhoongz/Inventario-Productos) – Aplicación backend con Python y SQL.
+- 🌐 [Página Web Full Stack](https://github.com/jhoongz/TPO-Codo-a-Codo-Python) – Proyecto web responsivo con HTML, CSS y JavaScript.
+
+---
+
+### 🛠 Tecnologías y Herramientas
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📫 Contacto / Contact
+
+- 📧 Email: gomezj9117@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/gomezjon](https://linkedin.com/in/gomezjon)  
+- 💻 Portfolio: *Próximamente / Coming soon*
+
+---
+
+Gracias por visitar mi perfil 😊 ¡Estoy abierto a colaborar y aprender juntos!  
