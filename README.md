@@ -8,7 +8,7 @@
 
 ### 🚀 Sobre mí / About Me
 
-- 🌱 Actualmente aprendiendo: React, Django REST Framework y PostgreSQL.
+- 🌱 Actualmente aprendiendo: SpringBoot, React, Django REST Framework y PostgreSQL.
 - 💡 Interesado en: Desarrollo Web, APIs REST, y Ciencia de Datos.
 - 💻 Tech Stack: Python | Java | JavaScript | HTML | CSS | SQL | Flask | Django | SpringBoot | Power BI.
 - 📚 Formación: Estudiante de Ingeniería en Sistemas de Información y Tecnicatura en Programación.
