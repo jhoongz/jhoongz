@@ -19,6 +19,7 @@
 ### 🔨 Proyectos destacados
 
 - 🛒 [Sistema de Gestión de Inventario](https://github.com/jhoongz/Inventario-Productos) – Aplicación backend con Python y SQL.
+- 🛒 [Gestion de Productos](https://github.com/jhoongz/GestionDeProductosJava) - Aplicación backend con Java 26
 - 🌐 [Página Web Full Stack](https://github.com/jhoongz/TPO-Codo-a-Codo-Python) – Proyecto web responsivo con HTML, CSS y JavaScript.
 
 ---
