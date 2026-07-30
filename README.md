@@ -10,7 +10,7 @@
 
 - 🌱 Actualmente aprendiendo: SpringBoot, React, Django REST Framework y MySQL.
 - 💡 Interesado en: Desarrollo Web, APIs REST, y Ciencia de Datos.
-- 💻 Tech Stack: Python | Java | JavaScript | HTML | CSS | SQL | Flask | Django | SpringBoot | Power BI.
+- 💻 Tech Stack: Java | SpringBoot | Python | Django | HTML | CSS  JavaScript | SQL | Flask | Power BI.
 - 📚 Formación: Estudiante de Ingeniería en Sistemas de Información y Tecnicatura en Programación.
 - 🤝 Buscando oportunidades para crecer como desarrollador en entornos ágiles y colaborativos.
 
