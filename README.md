@@ -45,7 +45,7 @@
 
 - 📧 Email: gomezj9117@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/gomezjon](https://linkedin.com/in/gomezjon)  
-- 💻 Portfolio: *Próximamente / Coming soon*
+- 💻 Portfolio: [jgdev-web](https://jgdev-web.netlify.app)
 
 ---
 
