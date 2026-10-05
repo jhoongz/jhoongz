@@ -8,9 +8,9 @@
 
 ### 🚀 Sobre mí / About Me
 
-- 🌱 Actualmente aprendiendo: SpringBoot, React, Django REST Framework y MySQL.
+- 🌱 Actualmente aprendiendo: SpringBoot, React, ExpressJS, Django REST Framework y MySQL.
 - 💡 Interesado en: Desarrollo Web, APIs REST, y Ciencia de Datos.
-- 💻 Tech Stack: Java | SpringBoot | Python | Django | HTML | CSS  JavaScript | SQL | Flask | Power BI.
+- 💻 Tech Stack: Java | SpringBoot | Python | Django | NodeJS | ExpressJS | HTML | CSS  JavaScript | SQL | Flask | Power BI.
 - 📚 Formación: Estudiante de Ingeniería en Sistemas de Información y Tecnicatura en Programación.
 - 🤝 Buscando oportunidades para crecer como desarrollador en entornos ágiles y colaborativos.
 
@@ -32,6 +32,8 @@
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-F2C811?style=for-the-badge&logo=SpringBoot&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![NodeJS](https://img.shields.io/badge/NodeJS-092E20?style=for-the-badge&logo=NodeJS&logoColor=Green)
+![ExpressJS](https://img.shields.io/badge/NodeJS-092E20?style=for-the-badge&logo=NodeJS&logoColor=Green)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
